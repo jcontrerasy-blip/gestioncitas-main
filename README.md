@@ -71,6 +71,3 @@ Para obtener información más detallada sobre cada componente del sistema, cons
 - ✅ Sistema de auditoría y seguridad
 - ✅ Notificaciones del sistema
 
-## 📝 Licencia
-
-[Especificar licencia si aplica]
